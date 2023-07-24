@@ -1,0 +1,303 @@
+{
+  "user": [
+    {
+      "id": "admin@gmail.com",
+      "firstName": "admin",
+      "lastName": "admin",
+      "password": "password"
+    },
+    {
+      "id": "a",
+      "firstName": "a",
+      "lastName": "a",
+      "password": "a"
+    },
+    {
+      "id": "a.a@a.c",
+      "firstName": "a",
+      "lastName": "a",
+      "password": "afasdfasdfasdf"
+    },
+    {
+      "id": "maggie@idiot.com",
+      "firstName": "maggie",
+      "lastName": "schwierking",
+      "password": "maggiesucks"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "friends": [
+    {
+      "id": 1,
+      "avatar": "https://uchv.princeton.edu/sites/g/files/toruqf2366/files/styles/freeform_750w/public/news/amy_gutmann_5.png?itok=shLQwGMZ",
+      "name": "Amy Gutmann"
+    },
+    {
+      "id": 2,
+      "avatar": "https://www.ali.org/media/filer_public_thumbnails/filer_public/1d/71/1d71d7c1-8917-4fc8-9e7e-abd6145c4f98/magill-elizabeth.jpg__1477x800_q85_subsampling-2.jpg",
+      "name": "Liz Magill"
+    },
+    {
+      "id": 3,
+      "avatar": "https://variety.com/wp-content/uploads/2022/05/MCDSHRE_EC008.jpg?w=1024",
+      "name": "Shrek"
+    }
+  ],
+  "other-users": [
+    {
+      "id": 4,
+      "avatar": "https://images.nightcafe.studio//assets/profile.png?tr=w-1600,c-at_max",
+      "name": "Student 1"
+    },
+    {
+      "id": 5,
+      "avatar": "https://images.nightcafe.studio//assets/profile.png?tr=w-1600,c-at_max",
+      "name": "Student 2"
+    },
+    {
+      "id": 6,
+      "avatar": "https://images.nightcafe.studio//assets/profile.png?tr=w-1600,c-at_max",
+      "name": "Student 3"
+    },
+    {
+      "id": 7,
+      "avatar": "https://images.nightcafe.studio//assets/profile.png?tr=w-1600,c-at_max",
+      "name": "Student 4"
+    }
+  ],
+  "conversations": [],
+  "sockets": [
+    {
+      "id": 1,
+      "messages": [
+        {
+          "text": "hello",
+          "sender": "admin@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "messages": [
+        {
+          "text": "hello",
+          "sender": "admin@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "messages": [
+        {
+          "text": "helloooooo",
+          "sender": "admin@gmail.com"
+        },
+        {
+          "text": "hello",
+          "sender": "admin@gmail.com"
+        },
+        {
+          "text": "hello",
+          "sender": "admin@gmail.com"
+        },
+        {
+          "text": "hello",
+          "sender": "admin@gmail.com"
+        },
+        {
+          "text": "hi",
+          "sender": "admin@gmail.com"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "messages": []
+    },
+    {
+      "id": 5,
+      "messages": []
+    },
+    {
+      "id": 6,
+      "messages": []
+    }
+  ],
+  "playlists": [
+    {
+      "id": "1",
+      "name": "Playlist 1",
+      "desc": "Hype songs",
+      "image": "https://st2.depositphotos.com/33190558/47628/i/450/depositphotos_476287700-stock-photo-purple-solid-color-background-plain.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Playlist 2",
+      "desc": "Study jamss",
+      "image": "https://st2.depositphotos.com/33190558/47628/i/450/depositphotos_476287700-stock-photo-purple-solid-color-background-plain.jpg"
+    },
+    {
+      "id": "432nvsd",
+      "name": "hello",
+      "desc": "chill",
+      "image": "https://st2.depositphotos.com/33190558/47628/i/450/depositphotos_476287700-stock-photo-purple-solid-color-background-plain.jpg"
+    },
+    {
+      "id": "abhijay",
+      "name": "abhijay",
+      "desc": "agarwal",
+      "image": "https://st2.depositphotos.com/33190558/47628/i/450/depositphotos_476287700-stock-photo-purple-solid-color-background-plain.jpg"
+    },
+    {
+      "id": "vjfsak234",
+      "name": "benjams",
+      "desc": "jams for the ben",
+      "image": "https://st2.depositphotos.com/33190558/47628/i/450/depositphotos_476287700-stock-photo-purple-solid-color-background-plain.jpg"
+    },
+    {
+      "id": "43visf9vs0j3",
+      "name": "metal is heavy",
+      "desc": "heavy metal",
+      "image": "https://st2.depositphotos.com/33190558/47628/i/450/depositphotos_476287700-stock-photo-purple-solid-color-background-plain.jpg"
+    }
+  ],
+  "communities": [
+    {
+      "name": "ABC",
+      "image": "https://doublejj.com/wp-content/uploads/2018/03/2880x1800-cream-solid-color-background.jpg",
+      "numMember": "2",
+      "desc": "no description"
+    },
+    {
+      "name": "BCD",
+      "image": "http://www.umdchabad.org/new/wp-content/uploads/2018/08/1280x720-coral-pink-solid-color-background-768x432.jpg",
+      "numMember": "3",
+      "desc": "no description"
+    },
+    {
+      "name": "BAES",
+      "image": "https://st2.depositphotos.com/33190558/47628/i/450/depositphotos_476287700-stock-photo-purple-solid-color-background-plain.jpg",
+      "numMember": "5",
+      "desc": "no description"
+    },
+    {
+      "name": "CDEF",
+      "image": "https://i.pinimg.com/originals/3d/98/91/3d98914dadfef7058bc98d5736066a21.png",
+      "numMember": "10",
+      "desc": "no description"
+    },
+    {
+      "name": "Community 5",
+      "image": "https://www.solidbackgrounds.com/images/2560x1440/2560x1440-blue-solid-color-background.jpg",
+      "numMember": "6",
+      "desc": "no description"
+    }
+  ],
+  "songs": [
+    {
+      "rank": 1,
+      "title": "abc",
+      "album": "ABC",
+      "jammies": 160,
+      "likes": true
+    },
+    {
+      "rank": 2,
+      "title": "def",
+      "album": "DEF",
+      "jammies": 127,
+      "likes": false
+    },
+    {
+      "rank": 3,
+      "title": "ghi",
+      "album": "GHI",
+      "jammies": 99,
+      "likes": true
+    },
+    {
+      "rank": 4,
+      "title": "jkl",
+      "album": "JKL",
+      "jammies": 56,
+      "likes": true
+    },
+    {
+      "rank": 5,
+      "title": "mno",
+      "album": "MNO",
+      "jammies": 12,
+      "likes": false
+    }
+  ],
+  "artists": [
+    {
+      "rank": 1,
+      "artist": "Olivia Rodrigo",
+      "genre": "Pop",
+      "jammies": 5608
+    },
+    {
+      "rank": 2,
+      "artist": "Taylor Swift",
+      "genre": "Pop",
+      "jammies": 2600
+    },
+    {
+      "rank": 3,
+      "artist": "Kidz Bop",
+      "genre": "Children",
+      "jammies": 1000
+    },
+    {
+      "rank": 4,
+      "artist": "Rapper",
+      "genre": "Rap",
+      "jammies": 49
+    },
+    {
+      "rank": 5,
+      "artist": "Pianist",
+      "genre": "Classical",
+      "jammies": 1
+    }
+  ],
+  "newartistplaylists": [
+    {
+      "artistName": "Dino",
+      "email": "dino@upenn.edu",
+      "spotifyURL": "dino",
+      "playlistName": "The Green Machine",
+      "description": "Dino Beatz",
+      "likes": false,
+      "id": 1
+    },
+    {
+      "artistName": "Mags",
+      "email": "mags@upenn.edu",
+      "spotifyURL": "fda",
+      "playlistName": "Rainy Daze",
+      "description": "for the days when it rains",
+      "likes": false,
+      "id": 2
+    },
+    {
+      "artistName": "maggie",
+      "email": "mags@upenn.edu",
+      "spotifyURL": "fdsa",
+      "playlistName": "maggie's main",
+      "description": "sad, happy, etc.",
+      "likes": false,
+      "id": 3
+    }
+  ]
+}

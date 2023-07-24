@@ -1,0 +1,2638 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders FriendsTable correctly 1`] = `
+<div
+  className="mantine-Center-root mantine-ojrz4j"
+>
+  <div
+    className="mantine-ScrollArea-root mantine-1deqy7c"
+    dir="ltr"
+    style={
+      Object {
+        "--radix-scroll-area-corner-height": "0px",
+        "--radix-scroll-area-corner-width": "0px",
+        "position": "relative",
+      }
+    }
+  >
+    <style
+      dangerouslySetInnerHTML={
+        Object {
+          "__html": "[data-radix-scroll-area-viewport]{scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;}[data-radix-scroll-area-viewport]::-webkit-scrollbar{display:none}",
+        }
+      }
+    />
+    <div
+      className="mantine-b6zkvl mantine-ScrollArea-viewport"
+      data-radix-scroll-area-viewport=""
+      style={
+        Object {
+          "overflowX": "scroll",
+          "overflowY": "scroll",
+        }
+      }
+    >
+      <div
+        style={
+          Object {
+            "display": "table",
+            "minWidth": "100%",
+          }
+        }
+      >
+        <table
+          className="mantine-Table-root mantine-z8tlxi"
+        >
+          <thead>
+            <tr>
+              <th>
+                <div
+                  className="mantine-Text-root mantine-1bwjdcs"
+                >
+                  Friends
+                </div>
+              </th>
+            </tr>
+          </thead>
+          <tbody />
+        </table>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders FriendsTable correctly 2`] = `
+<div
+  className="mantine-Center-root mantine-ojrz4j"
+>
+  <div
+    className="mantine-Stack-root mantine-caxjnw"
+  >
+    <div
+      className="mantine-ScrollArea-root mantine-1deqy7c"
+      dir="ltr"
+      style={
+        Object {
+          "--radix-scroll-area-corner-height": "0px",
+          "--radix-scroll-area-corner-width": "0px",
+          "position": "relative",
+        }
+      }
+    >
+      <style
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "[data-radix-scroll-area-viewport]{scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;}[data-radix-scroll-area-viewport]::-webkit-scrollbar{display:none}",
+          }
+        }
+      />
+      <div
+        className="mantine-b6zkvl mantine-ScrollArea-viewport"
+        data-radix-scroll-area-viewport=""
+        style={
+          Object {
+            "overflowX": "scroll",
+            "overflowY": "scroll",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "display": "table",
+              "minWidth": "100%",
+            }
+          }
+        >
+          <table
+            className="mantine-Table-root mantine-rptuqp"
+          >
+            <thead>
+              <tr>
+                <th>
+                  <div
+                    className="mantine-Text-root mantine-1bwjdcs"
+                  >
+                    Communities
+                  </div>
+                </th>
+              </tr>
+            </thead>
+            <tbody />
+          </table>
+        </div>
+      </div>
+    </div>
+    <button
+      className="mantine-UnstyledButton-root mantine-Button-root mantine-143ptlp"
+      data-button={true}
+      onClick={[Function]}
+      type="button"
+    >
+      <div
+        className="mantine-1wpc1xj mantine-Button-inner"
+      >
+        <span
+          className="mantine-1ryt1ht mantine-Button-label"
+          style={
+            Object {
+              "textTransform": undefined,
+            }
+          }
+        >
+          Add New Community
+        </span>
+      </div>
+    </button>
+  </div>
+</div>
+`;
+
+exports[`renders chat page correctly 1`] = `
+Array [
+  <div
+    className="mantine-1avyp1d"
+  >
+    <header
+      className="mantine-Header-root mantine-r9tegj"
+    >
+      <div
+        className="mantine-Group-root mantine-1vdqnc0"
+      >
+        <div
+          className="mantine-Group-root mantine-m4m58g"
+        >
+          <a
+            href="/home"
+          >
+            <div
+              className="mantine-Image-root mantine-yxmaw9"
+              style={
+                Object {
+                  "width": "11.25rem",
+                }
+              }
+            >
+              <figure
+                className="mantine-qenwvq mantine-Image-figure"
+              >
+                <div
+                  className="mantine-1iugybl mantine-Image-imageWrapper"
+                >
+                  <img
+                    alt="logo"
+                    className="mantine-1p3no9p mantine-Image-image"
+                    onError={[Function]}
+                    src="https://drive.google.com/uc?export=view&id=1vj6LuzPfbEDRcAiy3Lei9-uD48t1vjTF"
+                    style={
+                      Object {
+                        "height": "3.125rem",
+                        "objectFit": "contain",
+                        "width": "11.25rem",
+                      }
+                    }
+                  />
+                </div>
+              </figure>
+            </div>
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/leaderboard"
+          >
+            Leaderboard
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/home"
+          >
+            PennMix
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/communities"
+          >
+            Community
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/chat"
+          >
+            Chat
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/users"
+          >
+            Vibe
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/newartists"
+          >
+            New Artists
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/playlistfeed"
+          >
+            Playlist Feed
+          </a>
+        </div>
+        <div
+          className="mantine-Group-root mantine-k3ov3c"
+        >
+          <a
+            className="mantine-Avatar-root mantine-ab3kuj"
+            href="http://localhost:/profile"
+            onClick={[Function]}
+          >
+            <img
+              alt="User"
+              className="mantine-9rx0rd mantine-Avatar-image"
+              onError={[Function]}
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxU_HXn8zNqrMo5wdVZmnqOEZk4O708Zt1ZEEb2jBtPj50tjZ-0J4Y_N9lISrYk-PWVS0&usqp=CAU"
+            />
+          </a>
+          <button
+            className="mantine-UnstyledButton-root mantine-Button-root mantine-r36qjg"
+            data-button={true}
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="mantine-1wpc1xj mantine-Button-inner"
+            >
+              <span
+                className="mantine-1ryt1ht mantine-Button-label"
+                style={
+                  Object {
+                    "textTransform": undefined,
+                  }
+                }
+              >
+                Log out
+              </span>
+            </div>
+          </button>
+        </div>
+        <button
+          className="mantine-UnstyledButton-root mantine-Burger-root mantine-1ctspuk"
+          onClick={[Function]}
+          type="button"
+        >
+          <div
+            className="mantine-zpoir7 mantine-Burger-burger"
+          />
+        </button>
+      </div>
+    </header>
+  </div>,
+  <h1
+    className="mantine-Text-root mantine-Title-root mantine-1bgluw4"
+  >
+    Chat with friends!
+  </h1>,
+  <div
+    className="mantine-Center-root mantine-ojrz4j"
+  >
+    <div
+      className="mantine-Stack-root mantine-caxjnw"
+    >
+      <div
+        className="mantine-InputWrapper-root mantine-NumberInput-root mantine-1ejqehl"
+      >
+        <label
+          className="mantine-InputWrapper-label mantine-NumberInput-label mantine-1fzet7j"
+          htmlFor="mantine-08i71jh4c"
+          id="mantine-08i71jh4c-label"
+          onMouseDown={[Function]}
+        >
+          Choose your socket
+          <span
+            aria-hidden={true}
+            className="mantine-103svbs mantine-InputWrapper-required mantine-NumberInput-required"
+          >
+             *
+          </span>
+        </label>
+        <div
+          className="mantine-Input-wrapper mantine-NumberInput-wrapper mantine-7c7vou"
+        >
+          <input
+            aria-invalid={false}
+            className="mantine-Input-input mantine-NumberInput-input mantine-1dfdtl1"
+            id="mantine-08i71jh4c"
+            inputMode="numeric"
+            max={10}
+            min={1}
+            onBlur={[Function]}
+            onChange={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            placeholder="Socket Number (1-10)"
+            step={1}
+            type="text"
+            value="1"
+          />
+          <div
+            className="mantine-unhde mantine-Input-rightSection mantine-NumberInput-rightSection"
+          >
+            <div
+              className="mantine-1s0kk1f mantine-NumberInput-rightSection"
+            >
+              <button
+                aria-hidden={true}
+                className="mantine-NumberInput-control mantine-NumberInput-controlUp mantine-x0i9fi"
+                disabled={false}
+                onPointerDown={[Function]}
+                onPointerLeave={[Function]}
+                onPointerUp={[Function]}
+                tabIndex={-1}
+                type="button"
+              >
+                <svg
+                  fill="none"
+                  height="0.875rem"
+                  style={
+                    Object {
+                      "transform": "rotate(180deg)",
+                    }
+                  }
+                  viewBox="0 0 15 15"
+                  width="0.875rem"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    clipRule="evenodd"
+                    d="M3.13523 6.15803C3.3241 5.95657 3.64052 5.94637 3.84197 6.13523L7.5 9.56464L11.158 6.13523C11.3595 5.94637 11.6759 5.95657 11.8648 6.15803C12.0536 6.35949 12.0434 6.67591 11.842 6.86477L7.84197 10.6148C7.64964 10.7951 7.35036 10.7951 7.15803 10.6148L3.15803 6.86477C2.95657 6.67591 2.94637 6.35949 3.13523 6.15803Z"
+                    fill="currentColor"
+                    fillRule="evenodd"
+                  />
+                </svg>
+              </button>
+              <button
+                aria-hidden={true}
+                className="mantine-NumberInput-control mantine-NumberInput-controlDown mantine-1g3thxc"
+                disabled={true}
+                onPointerDown={[Function]}
+                onPointerLeave={[Function]}
+                onPointerUp={[Function]}
+                tabIndex={-1}
+                type="button"
+              >
+                <svg
+                  fill="none"
+                  height="0.875rem"
+                  style={
+                    Object {
+                      "transform": undefined,
+                    }
+                  }
+                  viewBox="0 0 15 15"
+                  width="0.875rem"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    clipRule="evenodd"
+                    d="M3.13523 6.15803C3.3241 5.95657 3.64052 5.94637 3.84197 6.13523L7.5 9.56464L11.158 6.13523C11.3595 5.94637 11.6759 5.95657 11.8648 6.15803C12.0536 6.35949 12.0434 6.67591 11.842 6.86477L7.84197 10.6148C7.64964 10.7951 7.35036 10.7951 7.15803 10.6148L3.15803 6.86477C2.95657 6.67591 2.94637 6.35949 3.13523 6.15803Z"
+                    fill="currentColor"
+                    fillRule="evenodd"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div
+        className="mantine-Paper-root mantine-lpkcco"
+        data-with-border={true}
+      >
+        <div
+          style={
+            Object {
+              "alignContent": "center",
+              "display": "flex",
+              "flexDirection": "column",
+              "maxHeight": "300px",
+              "minHeight": "300px",
+              "overflow": "auto",
+            }
+          }
+        />
+        <div
+          style={
+            Object {
+              "alignItems": "center",
+              "display": "flex",
+            }
+          }
+        >
+          <div
+            className="mantine-InputWrapper-root mantine-Textarea-root mantine-1ejqehl"
+            style={
+              Object {
+                "flex": "1",
+                "marginRight": "8px",
+              }
+            }
+          >
+            <div
+              className="mantine-Input-wrapper mantine-Textarea-wrapper mantine-7c7vou"
+            >
+              <textarea
+                aria-invalid={false}
+                className="mantine-Input-input mantine-Textarea-input mantine-qb7utt"
+                id="mantine-kq13p1x9a"
+                onChange={[Function]}
+                onKeyDown={[Function]}
+                placeholder="Type your message here..."
+                value=""
+              />
+            </div>
+          </div>
+          <button
+            className="mantine-UnstyledButton-root mantine-Button-root mantine-143ptlp"
+            data-button={true}
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="mantine-1wpc1xj mantine-Button-inner"
+            >
+              <span
+                className="mantine-1ryt1ht mantine-Button-label"
+                style={
+                  Object {
+                    "textTransform": undefined,
+                  }
+                }
+              >
+                Send
+              </span>
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`renders communities page correctly 1`] = `
+Array [
+  <div
+    className="mantine-1avyp1d"
+  >
+    <header
+      className="mantine-Header-root mantine-r9tegj"
+    >
+      <div
+        className="mantine-Group-root mantine-1vdqnc0"
+      >
+        <div
+          className="mantine-Group-root mantine-m4m58g"
+        >
+          <a
+            href="/home"
+          >
+            <div
+              className="mantine-Image-root mantine-yxmaw9"
+              style={
+                Object {
+                  "width": "11.25rem",
+                }
+              }
+            >
+              <figure
+                className="mantine-qenwvq mantine-Image-figure"
+              >
+                <div
+                  className="mantine-1iugybl mantine-Image-imageWrapper"
+                >
+                  <img
+                    alt="logo"
+                    className="mantine-1p3no9p mantine-Image-image"
+                    onError={[Function]}
+                    src="https://drive.google.com/uc?export=view&id=1vj6LuzPfbEDRcAiy3Lei9-uD48t1vjTF"
+                    style={
+                      Object {
+                        "height": "3.125rem",
+                        "objectFit": "contain",
+                        "width": "11.25rem",
+                      }
+                    }
+                  />
+                </div>
+              </figure>
+            </div>
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/leaderboard"
+          >
+            Leaderboard
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/home"
+          >
+            PennMix
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/communities"
+          >
+            Community
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/chat"
+          >
+            Chat
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/users"
+          >
+            Vibe
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/newartists"
+          >
+            New Artists
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/playlistfeed"
+          >
+            Playlist Feed
+          </a>
+        </div>
+        <div
+          className="mantine-Group-root mantine-k3ov3c"
+        >
+          <a
+            className="mantine-Avatar-root mantine-ab3kuj"
+            href="http://localhost:/profile"
+            onClick={[Function]}
+          >
+            <img
+              alt="User"
+              className="mantine-9rx0rd mantine-Avatar-image"
+              onError={[Function]}
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxU_HXn8zNqrMo5wdVZmnqOEZk4O708Zt1ZEEb2jBtPj50tjZ-0J4Y_N9lISrYk-PWVS0&usqp=CAU"
+            />
+          </a>
+          <button
+            className="mantine-UnstyledButton-root mantine-Button-root mantine-r36qjg"
+            data-button={true}
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="mantine-1wpc1xj mantine-Button-inner"
+            >
+              <span
+                className="mantine-1ryt1ht mantine-Button-label"
+                style={
+                  Object {
+                    "textTransform": undefined,
+                  }
+                }
+              >
+                Log out
+              </span>
+            </div>
+          </button>
+        </div>
+        <button
+          className="mantine-UnstyledButton-root mantine-Burger-root mantine-1ctspuk"
+          onClick={[Function]}
+          type="button"
+        >
+          <div
+            className="mantine-zpoir7 mantine-Burger-burger"
+          />
+        </button>
+      </div>
+    </header>
+  </div>,
+  <div
+    className="mantine-Container-root mantine-scik0b"
+  >
+    <div
+      className="mantine-r6um4p"
+      style={
+        Object {
+          "margin": "10px",
+        }
+      }
+    >
+      <div
+        className="mantine-Input-wrapper mantine-7c7vou"
+        style={
+          Object {
+            "width": "400px",
+          }
+        }
+      >
+        <input
+          aria-invalid={false}
+          className="mantine-Input-input mantine-1yew166"
+          onChange={[Function]}
+          placeholder="Search Communities"
+        />
+      </div>
+      <button
+        className="mantine-UnstyledButton-root mantine-Button-root mantine-f3p3rr"
+        data-button={true}
+        onClick={[Function]}
+        type="button"
+      >
+        <div
+          className="mantine-1wpc1xj mantine-Button-inner"
+        >
+          <span
+            className="mantine-1ryt1ht mantine-Button-label"
+            style={
+              Object {
+                "textTransform": undefined,
+              }
+            }
+          >
+            Search
+          </span>
+        </div>
+      </button>
+    </div>
+    <div
+      className="mantine-1cw9ra3"
+    />
+    <button
+      aria-controls="mantine-iyyxxlihn-dropdown"
+      aria-expanded={false}
+      aria-haspopup="dialog"
+      className="mantine-UnstyledButton-root mantine-Button-root mantine-1bv0gga"
+      data-button={true}
+      id="mantine-iyyxxlihn-target"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      type="button"
+    >
+      <div
+        className="mantine-1wpc1xj mantine-Button-inner"
+      >
+        <span
+          className="mantine-1ryt1ht mantine-Button-label"
+          style={
+            Object {
+              "textTransform": undefined,
+            }
+          }
+        >
+          Create New Community
+        </span>
+      </div>
+    </button>
+    <div
+      className="mantine-vwtu6z"
+    />
+    <div
+      className="mantine-Carousel-root mantine-7c7vou"
+      onKeyDownCapture={[Function]}
+    >
+      <div
+        className="mantine-1my8u2w mantine-Carousel-viewport"
+      >
+        <div
+          className="mantine-otk9oq mantine-Carousel-container"
+        />
+      </div>
+      <div
+        className="mantine-vcl0d1 mantine-Carousel-controls"
+      >
+        <button
+          className="mantine-UnstyledButton-root mantine-Carousel-control mantine-1v3yzoy"
+          data-inactive={true}
+          onClick={[Function]}
+          tabIndex={-1}
+          type="button"
+        >
+          <svg
+            fill="none"
+            height="1rem"
+            style={
+              Object {
+                "transform": "rotate(90deg)",
+              }
+            }
+            viewBox="0 0 15 15"
+            width="1rem"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              clipRule="evenodd"
+              d="M3.13523 6.15803C3.3241 5.95657 3.64052 5.94637 3.84197 6.13523L7.5 9.56464L11.158 6.13523C11.3595 5.94637 11.6759 5.95657 11.8648 6.15803C12.0536 6.35949 12.0434 6.67591 11.842 6.86477L7.84197 10.6148C7.64964 10.7951 7.35036 10.7951 7.15803 10.6148L3.15803 6.86477C2.95657 6.67591 2.94637 6.35949 3.13523 6.15803Z"
+              fill="currentColor"
+              fillRule="evenodd"
+            />
+          </svg>
+        </button>
+        <button
+          className="mantine-UnstyledButton-root mantine-Carousel-control mantine-1v3yzoy"
+          data-inactive={true}
+          onClick={[Function]}
+          tabIndex={-1}
+          type="button"
+        >
+          <svg
+            fill="none"
+            height="1rem"
+            style={
+              Object {
+                "transform": "rotate(-90deg)",
+              }
+            }
+            viewBox="0 0 15 15"
+            width="1rem"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              clipRule="evenodd"
+              d="M3.13523 6.15803C3.3241 5.95657 3.64052 5.94637 3.84197 6.13523L7.5 9.56464L11.158 6.13523C11.3595 5.94637 11.6759 5.95657 11.8648 6.15803C12.0536 6.35949 12.0434 6.67591 11.842 6.86477L7.84197 10.6148C7.64964 10.7951 7.35036 10.7951 7.15803 10.6148L3.15803 6.86477C2.95657 6.67591 2.94637 6.35949 3.13523 6.15803Z"
+              fill="currentColor"
+              fillRule="evenodd"
+            />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`renders login page correctly 1`] = `
+<div
+  className="mantine-Container-root mantine-r7pakz"
+>
+  <h1
+    className="mantine-Text-root mantine-Title-root mantine-xkzoef"
+  >
+    Welcome to
+  </h1>
+  <div
+    className="mantine-Center-root mantine-ojrz4j"
+  >
+    <div
+      className="mantine-Image-root mantine-pqewl1"
+      style={
+        Object {
+          "width": "100%",
+        }
+      }
+    >
+      <figure
+        className="mantine-qenwvq mantine-Image-figure"
+      >
+        <div
+          className="mantine-1iugybl mantine-Image-imageWrapper"
+        >
+          <img
+            alt="spotify-at-penn-logo"
+            className="mantine-1p3no9p mantine-Image-image"
+            onError={[Function]}
+            src="https://drive.google.com/uc?export=view&id=1vj6LuzPfbEDRcAiy3Lei9-uD48t1vjTF"
+            style={
+              Object {
+                "height": "auto",
+                "objectFit": "cover",
+                "width": "100%",
+              }
+            }
+          />
+        </div>
+      </figure>
+    </div>
+  </div>
+  <div
+    className="mantine-Paper-root mantine-3hr9oc"
+    data-with-border={true}
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <div
+        className="mantine-InputWrapper-root mantine-TextInput-root mantine-1ejqehl"
+      >
+        <label
+          className="mantine-InputWrapper-label mantine-TextInput-label mantine-1fzet7j"
+          htmlFor="mantine-ytgftcqif"
+          id="mantine-ytgftcqif-label"
+          onMouseDown={[Function]}
+        >
+          Email
+          <span
+            aria-hidden={true}
+            className="mantine-103svbs mantine-InputWrapper-required mantine-TextInput-required"
+          >
+             *
+          </span>
+        </label>
+        <div
+          className="mantine-Input-wrapper mantine-TextInput-wrapper mantine-7c7vou"
+        >
+          <input
+            aria-invalid={false}
+            className="mantine-Input-input mantine-TextInput-input mantine-ax01a0"
+            id="mantine-ytgftcqif"
+            onChange={[Function]}
+            placeholder="you@upenn.edu"
+            required={true}
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        className="mantine-InputWrapper-root mantine-PasswordInput-root mantine-11nf037"
+      >
+        <label
+          className="mantine-InputWrapper-label mantine-PasswordInput-label mantine-1fzet7j"
+          htmlFor="mantine-ufwvfxakn"
+          id="mantine-ufwvfxakn-label"
+          onMouseDown={[Function]}
+        >
+          Password
+          <span
+            aria-hidden={true}
+            className="mantine-103svbs mantine-InputWrapper-required mantine-PasswordInput-required"
+          >
+             *
+          </span>
+        </label>
+        <div
+          className="mantine-Input-wrapper mantine-PasswordInput-wrapper mantine-7c7vou"
+        >
+          <div
+            aria-invalid={false}
+            className="mantine-PasswordInput-input mantine-Input-input mantine-PasswordInput-input mantine-s99vai"
+          >
+            <input
+              className="mantine-9zz0g4 mantine-PasswordInput-innerInput"
+              id="mantine-ufwvfxakn"
+              onChange={[Function]}
+              placeholder="Your password"
+              required={true}
+              type="password"
+              value=""
+            />
+          </div>
+          <div
+            className="mantine-c7k433 mantine-Input-rightSection mantine-PasswordInput-rightSection"
+          >
+            <button
+              aria-hidden={true}
+              className="mantine-UnstyledButton-root mantine-ActionIcon-root mantine-PasswordInput-visibilityToggle mantine-1and1g0"
+              onKeyDown={[Function]}
+              onMouseDown={[Function]}
+              tabIndex={-1}
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="0.9375rem"
+                viewBox="0 0 15 15"
+                width="0.9375rem"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clipRule="evenodd"
+                  d="M7.5 11C4.80285 11 2.52952 9.62184 1.09622 7.50001C2.52952 5.37816 4.80285 4 7.5 4C10.1971 4 12.4705 5.37816 13.9038 7.50001C12.4705 9.62183 10.1971 11 7.5 11ZM7.5 3C4.30786 3 1.65639 4.70638 0.0760002 7.23501C-0.0253338 7.39715 -0.0253334 7.60288 0.0760014 7.76501C1.65639 10.2936 4.30786 12 7.5 12C10.6921 12 13.3436 10.2936 14.924 7.76501C15.0253 7.60288 15.0253 7.39715 14.924 7.23501C13.3436 4.70638 10.6921 3 7.5 3ZM7.5 9.5C8.60457 9.5 9.5 8.60457 9.5 7.5C9.5 6.39543 8.60457 5.5 7.5 5.5C6.39543 5.5 5.5 6.39543 5.5 7.5C5.5 8.60457 6.39543 9.5 7.5 9.5Z"
+                  fill="currentColor"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        className="mantine-Group-root mantine-1ycwwjd"
+      >
+        <div
+          className="mantine-Checkbox-root mantine-yxmaw9"
+        >
+          <div
+            className="mantine-14n9mxy mantine-Checkbox-body"
+          >
+            <div
+              className="mantine-1vf457v mantine-Checkbox-inner"
+            >
+              <input
+                className="mantine-qjqn4g mantine-Checkbox-input"
+                id="mantine-fmqofb2vy"
+                type="checkbox"
+              />
+              <svg
+                className="___ref-icon mantine-q9qwbl mantine-Checkbox-icon"
+                fill="none"
+                viewBox="0 0 10 7"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  clipRule="evenodd"
+                  d="M4 4.586L1.707 2.293A1 1 0 1 0 .293 3.707l3 3a.997.997 0 0 0 1.414 0l5-5A1 1 0 1 0 8.293.293L4 4.586z"
+                  fill="currentColor"
+                  fillRule="evenodd"
+                />
+              </svg>
+            </div>
+            <div
+              className="mantine-1svz3tp mantine-Checkbox-labelWrapper"
+            >
+              <label
+                className="mantine-9gvgd1 mantine-Checkbox-label"
+                htmlFor="mantine-fmqofb2vy"
+              >
+                Remember me
+              </label>
+            </div>
+          </div>
+        </div>
+        <a
+          component={
+            Object {
+              "$$typeof": Symbol(react.forward_ref),
+              "render": [Function],
+            }
+          }
+          href="/home"
+          onClick={[Function]}
+          style={
+            Object {
+              "color": "#288CE4",
+              "fontFamily": "Rubik",
+              "fontSize": 14,
+              "fontWeight": 400,
+            }
+          }
+        >
+          Forgot password?
+        </a>
+      </div>
+      <button
+        className="mantine-UnstyledButton-root mantine-Button-root mantine-1svejok"
+        data-button={true}
+        type="submit"
+      >
+        <div
+          className="mantine-1wpc1xj mantine-Button-inner"
+        >
+          <span
+            className="mantine-1ryt1ht mantine-Button-label"
+            style={
+              Object {
+                "textTransform": undefined,
+              }
+            }
+          >
+            Sign in
+          </span>
+        </div>
+      </button>
+    </form>
+    <div
+      className="mantine-Text-root mantine-aujseh"
+    >
+      Don't have an account yet?
+       
+      <a
+        component={
+          Object {
+            "$$typeof": Symbol(react.forward_ref),
+            "render": [Function],
+          }
+        }
+        href="/register"
+        onClick={[Function]}
+        style={
+          Object {
+            "color": "#288CE4",
+            "fontSize": 14,
+            "fontWeight": 400,
+          }
+        }
+      >
+        Create account.
+      </a>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders new artists page correctly 1`] = `
+Array [
+  <div
+    className="mantine-1avyp1d"
+  >
+    <header
+      className="mantine-Header-root mantine-r9tegj"
+    >
+      <div
+        className="mantine-Group-root mantine-1vdqnc0"
+      >
+        <div
+          className="mantine-Group-root mantine-m4m58g"
+        >
+          <a
+            href="/home"
+          >
+            <div
+              className="mantine-Image-root mantine-yxmaw9"
+              style={
+                Object {
+                  "width": "11.25rem",
+                }
+              }
+            >
+              <figure
+                className="mantine-qenwvq mantine-Image-figure"
+              >
+                <div
+                  className="mantine-1iugybl mantine-Image-imageWrapper"
+                >
+                  <img
+                    alt="logo"
+                    className="mantine-1p3no9p mantine-Image-image"
+                    onError={[Function]}
+                    src="https://drive.google.com/uc?export=view&id=1vj6LuzPfbEDRcAiy3Lei9-uD48t1vjTF"
+                    style={
+                      Object {
+                        "height": "3.125rem",
+                        "objectFit": "contain",
+                        "width": "11.25rem",
+                      }
+                    }
+                  />
+                </div>
+              </figure>
+            </div>
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/leaderboard"
+          >
+            Leaderboard
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/home"
+          >
+            PennMix
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/communities"
+          >
+            Community
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/chat"
+          >
+            Chat
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/users"
+          >
+            Vibe
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/newartists"
+          >
+            New Artists
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/playlistfeed"
+          >
+            Playlist Feed
+          </a>
+        </div>
+        <div
+          className="mantine-Group-root mantine-k3ov3c"
+        >
+          <a
+            className="mantine-Avatar-root mantine-ab3kuj"
+            href="http://localhost:/profile"
+            onClick={[Function]}
+          >
+            <img
+              alt="User"
+              className="mantine-9rx0rd mantine-Avatar-image"
+              onError={[Function]}
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxU_HXn8zNqrMo5wdVZmnqOEZk4O708Zt1ZEEb2jBtPj50tjZ-0J4Y_N9lISrYk-PWVS0&usqp=CAU"
+            />
+          </a>
+          <button
+            className="mantine-UnstyledButton-root mantine-Button-root mantine-r36qjg"
+            data-button={true}
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="mantine-1wpc1xj mantine-Button-inner"
+            >
+              <span
+                className="mantine-1ryt1ht mantine-Button-label"
+                style={
+                  Object {
+                    "textTransform": undefined,
+                  }
+                }
+              >
+                Log out
+              </span>
+            </div>
+          </button>
+        </div>
+        <button
+          className="mantine-UnstyledButton-root mantine-Burger-root mantine-1ctspuk"
+          onClick={[Function]}
+          type="button"
+        >
+          <div
+            className="mantine-zpoir7 mantine-Burger-burger"
+          />
+        </button>
+      </div>
+    </header>
+  </div>,
+  <h1
+    className="mantine-Text-root mantine-Title-root mantine-xv5brj"
+  >
+    New Artists @ Penn
+  </h1>,
+  <div
+    className="mantine-Center-root mantine-ojrz4j"
+  >
+    <div
+      className="mantine-Stack-root mantine-e2wlhh"
+    >
+      <button
+        className="mantine-UnstyledButton-root mantine-Button-root mantine-143ptlp"
+        data-button={true}
+        onClick={[Function]}
+        type="button"
+      >
+        <div
+          className="mantine-1wpc1xj mantine-Button-inner"
+        >
+          <span
+            className="mantine-1ryt1ht mantine-Button-label"
+            style={
+              Object {
+                "textTransform": undefined,
+              }
+            }
+          >
+            Upload My Music
+          </span>
+        </div>
+      </button>
+      <div
+        className="mantine-ScrollArea-root mantine-1deqy7c"
+        dir="ltr"
+        style={
+          Object {
+            "--radix-scroll-area-corner-height": "0px",
+            "--radix-scroll-area-corner-width": "0px",
+            "position": "relative",
+          }
+        }
+      >
+        <style
+          dangerouslySetInnerHTML={
+            Object {
+              "__html": "[data-radix-scroll-area-viewport]{scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;}[data-radix-scroll-area-viewport]::-webkit-scrollbar{display:none}",
+            }
+          }
+        />
+        <div
+          className="mantine-b6zkvl mantine-ScrollArea-viewport"
+          data-radix-scroll-area-viewport=""
+          style={
+            Object {
+              "overflowX": "scroll",
+              "overflowY": "scroll",
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "display": "table",
+                "minWidth": "100%",
+              }
+            }
+          >
+            <table
+              className="mantine-Table-root mantine-rptuqp"
+            >
+              <tbody />
+            </table>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`renders profile page correctly 1`] = `
+Array [
+  <div
+    className="mantine-1avyp1d"
+  >
+    <header
+      className="mantine-Header-root mantine-r9tegj"
+    >
+      <div
+        className="mantine-Group-root mantine-1vdqnc0"
+      >
+        <div
+          className="mantine-Group-root mantine-m4m58g"
+        >
+          <a
+            href="/home"
+          >
+            <div
+              className="mantine-Image-root mantine-yxmaw9"
+              style={
+                Object {
+                  "width": "11.25rem",
+                }
+              }
+            >
+              <figure
+                className="mantine-qenwvq mantine-Image-figure"
+              >
+                <div
+                  className="mantine-1iugybl mantine-Image-imageWrapper"
+                >
+                  <img
+                    alt="logo"
+                    className="mantine-1p3no9p mantine-Image-image"
+                    onError={[Function]}
+                    src="https://drive.google.com/uc?export=view&id=1vj6LuzPfbEDRcAiy3Lei9-uD48t1vjTF"
+                    style={
+                      Object {
+                        "height": "3.125rem",
+                        "objectFit": "contain",
+                        "width": "11.25rem",
+                      }
+                    }
+                  />
+                </div>
+              </figure>
+            </div>
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/leaderboard"
+          >
+            Leaderboard
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/home"
+          >
+            PennMix
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/communities"
+          >
+            Community
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/chat"
+          >
+            Chat
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/users"
+          >
+            Vibe
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/newartists"
+          >
+            New Artists
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/playlistfeed"
+          >
+            Playlist Feed
+          </a>
+        </div>
+        <div
+          className="mantine-Group-root mantine-k3ov3c"
+        >
+          <a
+            className="mantine-Avatar-root mantine-ab3kuj"
+            href="http://localhost:/profile"
+            onClick={[Function]}
+          >
+            <img
+              alt="User"
+              className="mantine-9rx0rd mantine-Avatar-image"
+              onError={[Function]}
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxU_HXn8zNqrMo5wdVZmnqOEZk4O708Zt1ZEEb2jBtPj50tjZ-0J4Y_N9lISrYk-PWVS0&usqp=CAU"
+            />
+          </a>
+          <button
+            className="mantine-UnstyledButton-root mantine-Button-root mantine-r36qjg"
+            data-button={true}
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="mantine-1wpc1xj mantine-Button-inner"
+            >
+              <span
+                className="mantine-1ryt1ht mantine-Button-label"
+                style={
+                  Object {
+                    "textTransform": undefined,
+                  }
+                }
+              >
+                Log out
+              </span>
+            </div>
+          </button>
+        </div>
+        <button
+          className="mantine-UnstyledButton-root mantine-Burger-root mantine-1ctspuk"
+          onClick={[Function]}
+          type="button"
+        >
+          <div
+            className="mantine-zpoir7 mantine-Burger-burger"
+          />
+        </button>
+      </div>
+    </header>
+  </div>,
+  <div
+    className="mantine-1cw9ra3"
+  />,
+  <div
+    className="mantine-Group-root mantine-106vqgs"
+  >
+    <div
+      className="mantine-Avatar-root mantine-9dwwby"
+    >
+      <img
+        className="mantine-9rx0rd mantine-Avatar-image"
+        onError={[Function]}
+        src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxU_HXn8zNqrMo5wdVZmnqOEZk4O708Zt1ZEEb2jBtPj50tjZ-0J4Y_N9lISrYk-PWVS0&usqp=CAU"
+      />
+    </div>
+    <h1
+      className="mantine-Text-root mantine-Title-root mantine-b48v86"
+    >
+       Benjamin Franklin
+    </h1>
+  </div>,
+  <div
+    className="mantine-13xtcol"
+  />,
+  <div
+    className="mantine-Tabs-root mantine-ro6hk9"
+  >
+    <div
+      aria-orientation="horizontal"
+      className="mantine-Tabs-tabsList mantine-fq0g4p"
+      role="tablist"
+    >
+      <button
+        aria-controls="mantine-kclpqjdum-panel-Playlists"
+        aria-selected={true}
+        className="mantine-UnstyledButton-root mantine-Tabs-tab mantine-1hher0m"
+        data-active={true}
+        id="mantine-kclpqjdum-tab-Playlists"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="tab"
+        tabIndex={0}
+        type="button"
+      >
+        <span
+          className="mantine-480qv8 mantine-Tabs-tabLabel"
+        >
+          Playlist tab
+        </span>
+      </button>
+      <button
+        aria-controls="mantine-kclpqjdum-panel-Friends"
+        aria-selected={false}
+        className="mantine-UnstyledButton-root mantine-Tabs-tab mantine-1hher0m"
+        id="mantine-kclpqjdum-tab-Friends"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="tab"
+        tabIndex={-1}
+        type="button"
+      >
+        <span
+          className="mantine-480qv8 mantine-Tabs-tabLabel"
+        >
+          Friends tab
+        </span>
+      </button>
+      <button
+        aria-controls="mantine-kclpqjdum-panel-Conversations"
+        aria-selected={false}
+        className="mantine-UnstyledButton-root mantine-Tabs-tab mantine-1hher0m"
+        id="mantine-kclpqjdum-tab-Conversations"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="tab"
+        tabIndex={-1}
+        type="button"
+      >
+        <span
+          className="mantine-480qv8 mantine-Tabs-tabLabel"
+        >
+          Conversations tab
+        </span>
+      </button>
+      <button
+        aria-controls="mantine-kclpqjdum-panel-Communities"
+        aria-selected={false}
+        className="mantine-UnstyledButton-root mantine-Tabs-tab mantine-1hher0m"
+        id="mantine-kclpqjdum-tab-Communities"
+        onClick={[Function]}
+        onKeyDown={[Function]}
+        role="tab"
+        tabIndex={-1}
+        type="button"
+      >
+        <span
+          className="mantine-480qv8 mantine-Tabs-tabLabel"
+        >
+          Communities tab
+        </span>
+      </button>
+    </div>
+    <div
+      aria-labelledby="mantine-kclpqjdum-tab-Playlists"
+      className="mantine-Tabs-panel mantine-35mi2b"
+      id="mantine-kclpqjdum-panel-Playlists"
+      role="tabpanel"
+    >
+      <div
+        className="mantine-Center-root mantine-ojrz4j"
+      >
+        <div
+          className="mantine-Stack-root mantine-caxjnw"
+        >
+          <h1
+            className="mantine-Text-root mantine-Title-root mantine-1c61i72"
+          >
+            Playlists
+            <div
+              className="mantine-ScrollArea-root mantine-1pf406m"
+              dir="ltr"
+              style={
+                Object {
+                  "--radix-scroll-area-corner-height": "0px",
+                  "--radix-scroll-area-corner-width": "0px",
+                  "position": "relative",
+                }
+              }
+            >
+              <style
+                dangerouslySetInnerHTML={
+                  Object {
+                    "__html": "[data-radix-scroll-area-viewport]{scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;}[data-radix-scroll-area-viewport]::-webkit-scrollbar{display:none}",
+                  }
+                }
+              />
+              <div
+                className="mantine-b6zkvl mantine-ScrollArea-viewport"
+                data-radix-scroll-area-viewport=""
+                style={
+                  Object {
+                    "overflowX": "scroll",
+                    "overflowY": "scroll",
+                  }
+                }
+              >
+                <div
+                  style={
+                    Object {
+                      "display": "table",
+                      "minWidth": "100%",
+                    }
+                  }
+                >
+                  <table
+                    className="mantine-Table-root mantine-rptuqp"
+                  >
+                    <tbody />
+                  </table>
+                </div>
+              </div>
+            </div>
+          </h1>
+          <button
+            aria-controls="mantine-lybc0mn6p-dropdown"
+            aria-expanded={false}
+            aria-haspopup="dialog"
+            className="mantine-UnstyledButton-root mantine-Button-root mantine-143ptlp"
+            data-button={true}
+            id="mantine-lybc0mn6p-target"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+            type="button"
+          >
+            <div
+              className="mantine-1wpc1xj mantine-Button-inner"
+            >
+              <span
+                className="mantine-1ryt1ht mantine-Button-label"
+                style={
+                  Object {
+                    "textTransform": undefined,
+                  }
+                }
+              >
+                Upload New Playlist
+              </span>
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div
+      aria-labelledby="mantine-kclpqjdum-tab-Friends"
+      className="mantine-Tabs-panel mantine-18ozoug"
+      id="mantine-kclpqjdum-panel-Friends"
+      role="tabpanel"
+    >
+      <div
+        className="mantine-Center-root mantine-ojrz4j"
+      >
+        <div
+          className="mantine-ScrollArea-root mantine-1deqy7c"
+          dir="ltr"
+          style={
+            Object {
+              "--radix-scroll-area-corner-height": "0px",
+              "--radix-scroll-area-corner-width": "0px",
+              "position": "relative",
+            }
+          }
+        >
+          <style
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "[data-radix-scroll-area-viewport]{scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;}[data-radix-scroll-area-viewport]::-webkit-scrollbar{display:none}",
+              }
+            }
+          />
+          <div
+            className="mantine-b6zkvl mantine-ScrollArea-viewport"
+            data-radix-scroll-area-viewport=""
+            style={
+              Object {
+                "overflowX": "scroll",
+                "overflowY": "scroll",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "display": "table",
+                  "minWidth": "100%",
+                }
+              }
+            >
+              <table
+                className="mantine-Table-root mantine-z8tlxi"
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      <div
+                        className="mantine-Text-root mantine-1bwjdcs"
+                      >
+                        Friends
+                      </div>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody />
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      aria-labelledby="mantine-kclpqjdum-tab-Conversations"
+      className="mantine-Tabs-panel mantine-18ozoug"
+      id="mantine-kclpqjdum-panel-Conversations"
+      role="tabpanel"
+    >
+      <div
+        className="mantine-Center-root mantine-ojrz4j"
+      >
+        <div
+          className="mantine-ScrollArea-root mantine-1deqy7c"
+          dir="ltr"
+          style={
+            Object {
+              "--radix-scroll-area-corner-height": "0px",
+              "--radix-scroll-area-corner-width": "0px",
+              "position": "relative",
+            }
+          }
+        >
+          <style
+            dangerouslySetInnerHTML={
+              Object {
+                "__html": "[data-radix-scroll-area-viewport]{scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;}[data-radix-scroll-area-viewport]::-webkit-scrollbar{display:none}",
+              }
+            }
+          />
+          <div
+            className="mantine-b6zkvl mantine-ScrollArea-viewport"
+            data-radix-scroll-area-viewport=""
+            style={
+              Object {
+                "overflowX": "scroll",
+                "overflowY": "scroll",
+              }
+            }
+          >
+            <div
+              style={
+                Object {
+                  "display": "table",
+                  "minWidth": "100%",
+                }
+              }
+            >
+              <table
+                className="mantine-Table-root mantine-rptuqp"
+              >
+                <thead>
+                  <tr>
+                    <th>
+                      <div
+                        className="mantine-Text-root mantine-1bwjdcs"
+                      >
+                        Conversations
+                      </div>
+                    </th>
+                  </tr>
+                </thead>
+                <tbody />
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div
+      aria-labelledby="mantine-kclpqjdum-tab-Communities"
+      className="mantine-Tabs-panel mantine-18ozoug"
+      id="mantine-kclpqjdum-panel-Communities"
+      role="tabpanel"
+    >
+      <div
+        className="mantine-Center-root mantine-ojrz4j"
+      >
+        <div
+          className="mantine-Stack-root mantine-caxjnw"
+        >
+          <div
+            className="mantine-ScrollArea-root mantine-1deqy7c"
+            dir="ltr"
+            style={
+              Object {
+                "--radix-scroll-area-corner-height": "0px",
+                "--radix-scroll-area-corner-width": "0px",
+                "position": "relative",
+              }
+            }
+          >
+            <style
+              dangerouslySetInnerHTML={
+                Object {
+                  "__html": "[data-radix-scroll-area-viewport]{scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;}[data-radix-scroll-area-viewport]::-webkit-scrollbar{display:none}",
+                }
+              }
+            />
+            <div
+              className="mantine-b6zkvl mantine-ScrollArea-viewport"
+              data-radix-scroll-area-viewport=""
+              style={
+                Object {
+                  "overflowX": "scroll",
+                  "overflowY": "scroll",
+                }
+              }
+            >
+              <div
+                style={
+                  Object {
+                    "display": "table",
+                    "minWidth": "100%",
+                  }
+                }
+              >
+                <table
+                  className="mantine-Table-root mantine-rptuqp"
+                >
+                  <thead>
+                    <tr>
+                      <th>
+                        <div
+                          className="mantine-Text-root mantine-1bwjdcs"
+                        >
+                          Communities
+                        </div>
+                      </th>
+                    </tr>
+                  </thead>
+                  <tbody />
+                </table>
+              </div>
+            </div>
+          </div>
+          <button
+            className="mantine-UnstyledButton-root mantine-Button-root mantine-143ptlp"
+            data-button={true}
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="mantine-1wpc1xj mantine-Button-inner"
+            >
+              <span
+                className="mantine-1ryt1ht mantine-Button-label"
+                style={
+                  Object {
+                    "textTransform": undefined,
+                  }
+                }
+              >
+                Add New Community
+              </span>
+            </div>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;
+
+exports[`renders register page correctly 1`] = `
+<div
+  className="mantine-Container-root mantine-r7pakz"
+>
+  <h1
+    className="mantine-Text-root mantine-Title-root mantine-xkzoef"
+  >
+    Welcome to
+  </h1>
+  <div
+    className="mantine-Center-root mantine-ojrz4j"
+  >
+    <div
+      className="mantine-Image-root mantine-pqewl1"
+      style={
+        Object {
+          "width": "100%",
+        }
+      }
+    >
+      <figure
+        className="mantine-qenwvq mantine-Image-figure"
+      >
+        <div
+          className="mantine-1iugybl mantine-Image-imageWrapper"
+        >
+          <img
+            alt="spotify-at-penn-logo"
+            className="mantine-1p3no9p mantine-Image-image"
+            onError={[Function]}
+            src="https://drive.google.com/uc?export=view&id=1vj6LuzPfbEDRcAiy3Lei9-uD48t1vjTF"
+            style={
+              Object {
+                "height": "auto",
+                "objectFit": "cover",
+                "width": "100%",
+              }
+            }
+          />
+        </div>
+      </figure>
+    </div>
+  </div>
+  <div
+    className="mantine-Paper-root mantine-3hr9oc"
+    data-with-border={true}
+  >
+    <form
+      onSubmit={[Function]}
+    >
+      <div
+        className="mantine-Stack-root mantine-caxjnw"
+      >
+        <div
+          className="mantine-Group-root mantine-1xo685t"
+        >
+          <div
+            className="mantine-InputWrapper-root mantine-TextInput-root mantine-1ejqehl"
+          >
+            <label
+              className="mantine-InputWrapper-label mantine-TextInput-label mantine-1fzet7j"
+              htmlFor="mantine-p6ooj4qow"
+              id="mantine-p6ooj4qow-label"
+              onMouseDown={[Function]}
+            >
+              First Name
+              <span
+                aria-hidden={true}
+                className="mantine-103svbs mantine-InputWrapper-required mantine-TextInput-required"
+              >
+                 *
+              </span>
+            </label>
+            <div
+              className="mantine-Input-wrapper mantine-TextInput-wrapper mantine-7c7vou"
+            >
+              <input
+                aria-invalid={false}
+                className="mantine-Input-input mantine-TextInput-input mantine-ax01a0"
+                id="mantine-p6ooj4qow"
+                onChange={[Function]}
+                placeholder="First name"
+                required={true}
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            className="mantine-InputWrapper-root mantine-TextInput-root mantine-1ejqehl"
+          >
+            <label
+              className="mantine-InputWrapper-label mantine-TextInput-label mantine-1fzet7j"
+              htmlFor="mantine-3jjrsnwyo"
+              id="mantine-3jjrsnwyo-label"
+              onMouseDown={[Function]}
+            >
+              Last Name
+              <span
+                aria-hidden={true}
+                className="mantine-103svbs mantine-InputWrapper-required mantine-TextInput-required"
+              >
+                 *
+              </span>
+            </label>
+            <div
+              className="mantine-Input-wrapper mantine-TextInput-wrapper mantine-7c7vou"
+            >
+              <input
+                aria-invalid={false}
+                className="mantine-Input-input mantine-TextInput-input mantine-ax01a0"
+                id="mantine-3jjrsnwyo"
+                onChange={[Function]}
+                placeholder="Last name"
+                required={true}
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+        </div>
+        <div
+          className="mantine-InputWrapper-root mantine-TextInput-root mantine-1ejqehl"
+        >
+          <label
+            className="mantine-InputWrapper-label mantine-TextInput-label mantine-1fzet7j"
+            htmlFor="mantine-8k5mcwn4i"
+            id="mantine-8k5mcwn4i-label"
+            onMouseDown={[Function]}
+          >
+            Email
+            <span
+              aria-hidden={true}
+              className="mantine-103svbs mantine-InputWrapper-required mantine-TextInput-required"
+            >
+               *
+            </span>
+          </label>
+          <div
+            className="mantine-Input-wrapper mantine-TextInput-wrapper mantine-7c7vou"
+          >
+            <input
+              aria-invalid={false}
+              className="mantine-Input-input mantine-TextInput-input mantine-ax01a0"
+              id="mantine-8k5mcwn4i"
+              onChange={[Function]}
+              placeholder="example@example.com"
+              required={true}
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+        <div
+          className="mantine-InputWrapper-root mantine-PasswordInput-root mantine-1ejqehl"
+        >
+          <label
+            className="mantine-InputWrapper-label mantine-PasswordInput-label mantine-1fzet7j"
+            htmlFor="mantine-bzxpv1a8u"
+            id="mantine-bzxpv1a8u-label"
+            onMouseDown={[Function]}
+          >
+            Password
+            <span
+              aria-hidden={true}
+              className="mantine-103svbs mantine-InputWrapper-required mantine-PasswordInput-required"
+            >
+               *
+            </span>
+          </label>
+          <div
+            className="mantine-Input-wrapper mantine-PasswordInput-wrapper mantine-7c7vou"
+          >
+            <div
+              aria-invalid={false}
+              className="mantine-PasswordInput-input mantine-Input-input mantine-PasswordInput-input mantine-s99vai"
+            >
+              <input
+                className="mantine-9zz0g4 mantine-PasswordInput-innerInput"
+                id="mantine-bzxpv1a8u"
+                onChange={[Function]}
+                placeholder="Your password"
+                required={true}
+                type="password"
+                value=""
+              />
+            </div>
+            <div
+              className="mantine-c7k433 mantine-Input-rightSection mantine-PasswordInput-rightSection"
+            >
+              <button
+                aria-hidden={true}
+                className="mantine-UnstyledButton-root mantine-ActionIcon-root mantine-PasswordInput-visibilityToggle mantine-1and1g0"
+                onKeyDown={[Function]}
+                onMouseDown={[Function]}
+                tabIndex={-1}
+                type="button"
+              >
+                <svg
+                  fill="none"
+                  height="0.9375rem"
+                  viewBox="0 0 15 15"
+                  width="0.9375rem"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    clipRule="evenodd"
+                    d="M7.5 11C4.80285 11 2.52952 9.62184 1.09622 7.50001C2.52952 5.37816 4.80285 4 7.5 4C10.1971 4 12.4705 5.37816 13.9038 7.50001C12.4705 9.62183 10.1971 11 7.5 11ZM7.5 3C4.30786 3 1.65639 4.70638 0.0760002 7.23501C-0.0253338 7.39715 -0.0253334 7.60288 0.0760014 7.76501C1.65639 10.2936 4.30786 12 7.5 12C10.6921 12 13.3436 10.2936 14.924 7.76501C15.0253 7.60288 15.0253 7.39715 14.924 7.23501C13.3436 4.70638 10.6921 3 7.5 3ZM7.5 9.5C8.60457 9.5 9.5 8.60457 9.5 7.5C9.5 6.39543 8.60457 5.5 7.5 5.5C6.39543 5.5 5.5 6.39543 5.5 7.5C5.5 8.60457 6.39543 9.5 7.5 9.5Z"
+                    fill="currentColor"
+                    fillRule="evenodd"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+        <button
+          className="mantine-UnstyledButton-root mantine-Button-root mantine-18x67ok"
+          data-button={true}
+          type="submit"
+        >
+          <div
+            className="mantine-1wpc1xj mantine-Button-inner"
+          >
+            <span
+              className="mantine-1ryt1ht mantine-Button-label"
+              style={
+                Object {
+                  "textTransform": undefined,
+                }
+              }
+            >
+              Sign Up
+            </span>
+          </div>
+        </button>
+        <div
+          className="mantine-Group-root mantine-106vqgs"
+        >
+          <div
+            className="mantine-Text-root mantine-1oa8at9"
+            style={
+              Object {
+                "fontFamily": "Inter",
+                "fontSize": 14,
+              }
+            }
+          >
+            Have an account?
+          </div>
+          <a
+            component={
+              Object {
+                "$$typeof": Symbol(react.forward_ref),
+                "render": [Function],
+              }
+            }
+            href="/login"
+            onClick={[Function]}
+            style={
+              Object {
+                "color": "#288CE4",
+                "fontSize": 14,
+                "fontWeight": 400,
+              }
+            }
+          >
+            Login
+          </a>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>
+`;
+
+exports[`renders upload new artists page correctly 1`] = `
+Array [
+  <div
+    className="mantine-1avyp1d"
+  >
+    <header
+      className="mantine-Header-root mantine-r9tegj"
+    >
+      <div
+        className="mantine-Group-root mantine-1vdqnc0"
+      >
+        <div
+          className="mantine-Group-root mantine-m4m58g"
+        >
+          <a
+            href="/home"
+          >
+            <div
+              className="mantine-Image-root mantine-yxmaw9"
+              style={
+                Object {
+                  "width": "11.25rem",
+                }
+              }
+            >
+              <figure
+                className="mantine-qenwvq mantine-Image-figure"
+              >
+                <div
+                  className="mantine-1iugybl mantine-Image-imageWrapper"
+                >
+                  <img
+                    alt="logo"
+                    className="mantine-1p3no9p mantine-Image-image"
+                    onError={[Function]}
+                    src="https://drive.google.com/uc?export=view&id=1vj6LuzPfbEDRcAiy3Lei9-uD48t1vjTF"
+                    style={
+                      Object {
+                        "height": "3.125rem",
+                        "objectFit": "contain",
+                        "width": "11.25rem",
+                      }
+                    }
+                  />
+                </div>
+              </figure>
+            </div>
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/leaderboard"
+          >
+            Leaderboard
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/home"
+          >
+            PennMix
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/communities"
+          >
+            Community
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/chat"
+          >
+            Chat
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/users"
+          >
+            Vibe
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/newartists"
+          >
+            New Artists
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/playlistfeed"
+          >
+            Playlist Feed
+          </a>
+        </div>
+        <div
+          className="mantine-Group-root mantine-k3ov3c"
+        >
+          <a
+            className="mantine-Avatar-root mantine-ab3kuj"
+            href="http://localhost:/profile"
+            onClick={[Function]}
+          >
+            <img
+              alt="User"
+              className="mantine-9rx0rd mantine-Avatar-image"
+              onError={[Function]}
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxU_HXn8zNqrMo5wdVZmnqOEZk4O708Zt1ZEEb2jBtPj50tjZ-0J4Y_N9lISrYk-PWVS0&usqp=CAU"
+            />
+          </a>
+          <button
+            className="mantine-UnstyledButton-root mantine-Button-root mantine-r36qjg"
+            data-button={true}
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="mantine-1wpc1xj mantine-Button-inner"
+            >
+              <span
+                className="mantine-1ryt1ht mantine-Button-label"
+                style={
+                  Object {
+                    "textTransform": undefined,
+                  }
+                }
+              >
+                Log out
+              </span>
+            </div>
+          </button>
+        </div>
+        <button
+          className="mantine-UnstyledButton-root mantine-Burger-root mantine-1ctspuk"
+          onClick={[Function]}
+          type="button"
+        >
+          <div
+            className="mantine-zpoir7 mantine-Burger-burger"
+          />
+        </button>
+      </div>
+    </header>
+  </div>,
+  <div
+    className="mantine-Container-root mantine-r7pakz"
+  >
+    <h1
+      className="mantine-Text-root mantine-Title-root mantine-xkzoef"
+    >
+      New Artists @ Penn
+    </h1>
+    <div
+      className="mantine-Paper-root mantine-3hr9oc"
+      data-with-border={true}
+    >
+      <form
+        onSubmit={[Function]}
+      >
+        <div
+          className="mantine-Stack-root mantine-caxjnw"
+        >
+          <div
+            className="mantine-InputWrapper-root mantine-TextInput-root mantine-1ejqehl"
+          >
+            <label
+              className="mantine-InputWrapper-label mantine-TextInput-label mantine-1fzet7j"
+              htmlFor="mantine-fb9ghojfx"
+              id="mantine-fb9ghojfx-label"
+              onMouseDown={[Function]}
+            >
+              Artist Name
+              <span
+                aria-hidden={true}
+                className="mantine-103svbs mantine-InputWrapper-required mantine-TextInput-required"
+              >
+                 *
+              </span>
+            </label>
+            <div
+              className="mantine-Input-wrapper mantine-TextInput-wrapper mantine-7c7vou"
+            >
+              <input
+                aria-invalid={false}
+                className="mantine-Input-input mantine-TextInput-input mantine-ax01a0"
+                id="mantine-fb9ghojfx"
+                onChange={[Function]}
+                placeholder="Artist name"
+                required={true}
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            className="mantine-InputWrapper-root mantine-TextInput-root mantine-1ejqehl"
+          >
+            <label
+              className="mantine-InputWrapper-label mantine-TextInput-label mantine-1fzet7j"
+              htmlFor="mantine-glr7a0pmq"
+              id="mantine-glr7a0pmq-label"
+              onMouseDown={[Function]}
+            >
+              Email
+              <span
+                aria-hidden={true}
+                className="mantine-103svbs mantine-InputWrapper-required mantine-TextInput-required"
+              >
+                 *
+              </span>
+            </label>
+            <div
+              className="mantine-Input-wrapper mantine-TextInput-wrapper mantine-7c7vou"
+            >
+              <input
+                aria-invalid={false}
+                className="mantine-Input-input mantine-TextInput-input mantine-ax01a0"
+                id="mantine-glr7a0pmq"
+                onChange={[Function]}
+                placeholder="example@upenn.edu"
+                required={true}
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            className="mantine-InputWrapper-root mantine-TextInput-root mantine-1ejqehl"
+          >
+            <label
+              className="mantine-InputWrapper-label mantine-TextInput-label mantine-1fzet7j"
+              htmlFor="mantine-97cgeqii9"
+              id="mantine-97cgeqii9-label"
+              onMouseDown={[Function]}
+            >
+              Spotify Playlist URL
+              <span
+                aria-hidden={true}
+                className="mantine-103svbs mantine-InputWrapper-required mantine-TextInput-required"
+              >
+                 *
+              </span>
+            </label>
+            <div
+              className="mantine-Input-wrapper mantine-TextInput-wrapper mantine-7c7vou"
+            >
+              <input
+                aria-invalid={false}
+                className="mantine-Input-input mantine-TextInput-input mantine-ax01a0"
+                id="mantine-97cgeqii9"
+                onChange={[Function]}
+                placeholder="https://open.spotify.com/playlist/7A4x0PAsV8mQhmcKMYqoh1?si=8116bbd893c84e17&pt=3d25df74e576bbae1f93019beb71cea0"
+                required={true}
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            className="mantine-InputWrapper-root mantine-TextInput-root mantine-1ejqehl"
+          >
+            <label
+              className="mantine-InputWrapper-label mantine-TextInput-label mantine-1fzet7j"
+              htmlFor="mantine-6x8oq7k7i"
+              id="mantine-6x8oq7k7i-label"
+              onMouseDown={[Function]}
+            >
+              Playlist Name
+              <span
+                aria-hidden={true}
+                className="mantine-103svbs mantine-InputWrapper-required mantine-TextInput-required"
+              >
+                 *
+              </span>
+            </label>
+            <div
+              className="mantine-Input-wrapper mantine-TextInput-wrapper mantine-7c7vou"
+            >
+              <input
+                aria-invalid={false}
+                className="mantine-Input-input mantine-TextInput-input mantine-ax01a0"
+                id="mantine-6x8oq7k7i"
+                onChange={[Function]}
+                placeholder="Rainy Daze"
+                required={true}
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+          <div
+            className="mantine-InputWrapper-root mantine-TextInput-root mantine-1ejqehl"
+          >
+            <label
+              className="mantine-InputWrapper-label mantine-TextInput-label mantine-1fzet7j"
+              htmlFor="mantine-l611gjndd"
+              id="mantine-l611gjndd-label"
+              onMouseDown={[Function]}
+            >
+              Playlist Description
+              <span
+                aria-hidden={true}
+                className="mantine-103svbs mantine-InputWrapper-required mantine-TextInput-required"
+              >
+                 *
+              </span>
+            </label>
+            <div
+              className="mantine-Input-wrapper mantine-TextInput-wrapper mantine-7c7vou"
+            >
+              <input
+                aria-invalid={false}
+                className="mantine-Input-input mantine-TextInput-input mantine-ax01a0"
+                id="mantine-l611gjndd"
+                onChange={[Function]}
+                placeholder="the daze when it rains"
+                required={true}
+                type="text"
+                value=""
+              />
+            </div>
+          </div>
+          <button
+            className="mantine-UnstyledButton-root mantine-Button-root mantine-18x67ok"
+            data-button={true}
+            type="submit"
+          >
+            <div
+              className="mantine-1wpc1xj mantine-Button-inner"
+            >
+              <span
+                className="mantine-1ryt1ht mantine-Button-label"
+                style={
+                  Object {
+                    "textTransform": undefined,
+                  }
+                }
+              >
+                Submit
+              </span>
+            </div>
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>,
+]
+`;
+
+exports[`renders users page correctly 1`] = `
+Array [
+  <div
+    className="mantine-1avyp1d"
+  >
+    <header
+      className="mantine-Header-root mantine-r9tegj"
+    >
+      <div
+        className="mantine-Group-root mantine-1vdqnc0"
+      >
+        <div
+          className="mantine-Group-root mantine-m4m58g"
+        >
+          <a
+            href="/home"
+          >
+            <div
+              className="mantine-Image-root mantine-yxmaw9"
+              style={
+                Object {
+                  "width": "11.25rem",
+                }
+              }
+            >
+              <figure
+                className="mantine-qenwvq mantine-Image-figure"
+              >
+                <div
+                  className="mantine-1iugybl mantine-Image-imageWrapper"
+                >
+                  <img
+                    alt="logo"
+                    className="mantine-1p3no9p mantine-Image-image"
+                    onError={[Function]}
+                    src="https://drive.google.com/uc?export=view&id=1vj6LuzPfbEDRcAiy3Lei9-uD48t1vjTF"
+                    style={
+                      Object {
+                        "height": "3.125rem",
+                        "objectFit": "contain",
+                        "width": "11.25rem",
+                      }
+                    }
+                  />
+                </div>
+              </figure>
+            </div>
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/leaderboard"
+          >
+            Leaderboard
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/home"
+          >
+            PennMix
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/communities"
+          >
+            Community
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/chat"
+          >
+            Chat
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/users"
+          >
+            Vibe
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/newartists"
+          >
+            New Artists
+          </a>
+          <a
+            className="mantine-1pmmtd9"
+            href="/playlistfeed"
+          >
+            Playlist Feed
+          </a>
+        </div>
+        <div
+          className="mantine-Group-root mantine-k3ov3c"
+        >
+          <a
+            className="mantine-Avatar-root mantine-ab3kuj"
+            href="http://localhost:/profile"
+            onClick={[Function]}
+          >
+            <img
+              alt="User"
+              className="mantine-9rx0rd mantine-Avatar-image"
+              onError={[Function]}
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxU_HXn8zNqrMo5wdVZmnqOEZk4O708Zt1ZEEb2jBtPj50tjZ-0J4Y_N9lISrYk-PWVS0&usqp=CAU"
+            />
+          </a>
+          <button
+            className="mantine-UnstyledButton-root mantine-Button-root mantine-r36qjg"
+            data-button={true}
+            onClick={[Function]}
+            type="button"
+          >
+            <div
+              className="mantine-1wpc1xj mantine-Button-inner"
+            >
+              <span
+                className="mantine-1ryt1ht mantine-Button-label"
+                style={
+                  Object {
+                    "textTransform": undefined,
+                  }
+                }
+              >
+                Log out
+              </span>
+            </div>
+          </button>
+        </div>
+        <button
+          className="mantine-UnstyledButton-root mantine-Burger-root mantine-1ctspuk"
+          onClick={[Function]}
+          type="button"
+        >
+          <div
+            className="mantine-zpoir7 mantine-Burger-burger"
+          />
+        </button>
+      </div>
+    </header>
+  </div>,
+  <div
+    className="mantine-1cw9ra3"
+  />,
+  <h1
+    className="mantine-Text-root mantine-Title-root mantine-44lm1w"
+  >
+     Users 
+  </h1>,
+  <div
+    className="mantine-Center-root mantine-ojrz4j"
+  >
+    <div
+      className="mantine-ScrollArea-root mantine-1deqy7c"
+      dir="ltr"
+      style={
+        Object {
+          "--radix-scroll-area-corner-height": "0px",
+          "--radix-scroll-area-corner-width": "0px",
+          "position": "relative",
+        }
+      }
+    >
+      <style
+        dangerouslySetInnerHTML={
+          Object {
+            "__html": "[data-radix-scroll-area-viewport]{scrollbar-width:none;-ms-overflow-style:none;-webkit-overflow-scrolling:touch;}[data-radix-scroll-area-viewport]::-webkit-scrollbar{display:none}",
+          }
+        }
+      />
+      <div
+        className="mantine-b6zkvl mantine-ScrollArea-viewport"
+        data-radix-scroll-area-viewport=""
+        style={
+          Object {
+            "overflowX": "scroll",
+            "overflowY": "scroll",
+          }
+        }
+      >
+        <div
+          style={
+            Object {
+              "display": "table",
+              "minWidth": "100%",
+            }
+          }
+        >
+          <table
+            className="mantine-Table-root mantine-z8tlxi"
+          >
+            <tbody />
+          </table>
+        </div>
+      </div>
+    </div>
+  </div>,
+  <div
+    className="mantine-13xtcol"
+  />,
+]
+`;
